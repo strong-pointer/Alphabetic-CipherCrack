@@ -3,7 +3,7 @@ This program will take in a file with lines of text (all of Shakespeare's work i
 
 It will then put all of the counts and information alongside it into an outfile (specified in the Command Line Argument).
 
-FYI: This is meant to be used as more of a "tool" to produce further assumptions/studying about a replacement cipher, rather than a program to straight up "crack" a cipher.
+FYI: This is meant to be used as more of a "tool" to produce further assumptions/studying about a replacement cipher, rather than a program to directly "crack" a cipher.
 The counting of letters in this manner does *not* directly give you the cracked code.
 ________________________
 Once compiled, the program should be run in this format:<pre>
